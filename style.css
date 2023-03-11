@@ -121,7 +121,7 @@ form button:hover{
   from{top: 50%}
   to{top:100%}
 }
-@media(min-width:900px){
+@media(min-width:1000px){
   
 .inputs{max-width: 700px;
 }
